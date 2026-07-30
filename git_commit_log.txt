@@ -1,46 +1,54 @@
-*   7ca2726 - Rahul Biswas, 17 minutes ago : Merge branch 'main' into feature-login
+*   a127709 - Rahul Biswas, 9 minutes ago : Merge branch 'main' into feature-login
 |\  
-* \   40a57eb - Rahul Biswas, 32 minutes ago : Merge branch 'main' into feature-login
+* \   7ca2726 - Rahul Biswas, 27 minutes ago : Merge branch 'main' into feature-login
 |\ \  
-* \ \   1e9312a - Rahul Biswas, 51 minutes ago : Merge branch 'main' into feature-login
+* \ \   40a57eb - Rahul Biswas, 42 minutes ago : Merge branch 'main' into feature-login
 |\ \ \  
-* \ \ \   0be858c - Rahul Biswas, 53 minutes ago : Merge branch 'main' into feature-login
+* \ \ \   1e9312a - Rahul Biswas, 61 minutes ago : Merge branch 'main' into feature-login
 |\ \ \ \  
-* \ \ \ \   239b066 - Rahul Biswas, 85 minutes ago : Merge branch 'main' into feature-login
+* \ \ \ \   0be858c - Rahul Biswas, 63 minutes ago : Merge branch 'main' into feature-login
 |\ \ \ \ \  
-* \ \ \ \ \   a1c58e5 - Rahul Biswas, 89 minutes ago : Merge branch 'main' into feature-login
+* \ \ \ \ \   239b066 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-login
 |\ \ \ \ \ \  
-* \ \ \ \ \ \   8c945a0 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-login
+* \ \ \ \ \ \   a1c58e5 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-login
 |\ \ \ \ \ \ \  
-* | | | | | | | f3c298a - Rahul Biswas, 2 hours ago : del2
-* | | | | | | |   0a29303 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-login
+* \ \ \ \ \ \ \   8c945a0 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-login
 |\ \ \ \ \ \ \ \  
-| | | | | | | | | *   cff1359 - Rahul Biswas, 17 minutes ago : Merge branch 'main' into feature-logout
+* | | | | | | | | f3c298a - Rahul Biswas, 2 hours ago : del2
+* | | | | | | | |   0a29303 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-login
+|\ \ \ \ \ \ \ \ \  
+| | | | | | | | | | *   826d125 - Rahul Biswas, 9 minutes ago : Merge branch 'main' into feature-logout
+| | | | | | | | | | |\  
+| | | | | | | | | | |/  
+| | | | | | | | | |/|   
+| | | | | | | | | * | a35546c - Rahul Biswas, 10 minutes ago : 💖 Fill love.js with 💕 for GitHub
+| | | | | | | | |/ /  
+| | | | | | | | | *   cff1359 - Rahul Biswas, 27 minutes ago : Merge branch 'main' into feature-logout
 | | | | | | | | | |\  
 | | | | | | | | | |/  
 | | | | | | | | |/|   
-| | | | | | | | * |   26ce600 - Rahul Biswas, 32 minutes ago : Merge branch 'main' into feature-middleware
+| | | | | | | | * |   26ce600 - Rahul Biswas, 42 minutes ago : Merge branch 'main' into feature-middleware
 | | | | | | | | |\ \  
 | | | | | | | | |/ /  
 | | | | | | | |/| |   
-| | | | | | | | * | 3d06c6c - Rahul Biswas, 36 minutes ago : Adding love .js
-| | | | | | | | * |   8f4fb34 - Rahul Biswas, 51 minutes ago : Merge branch 'main' into feature-middleware
+| | | | | | | | * | 3d06c6c - Rahul Biswas, 46 minutes ago : Adding love .js
+| | | | | | | | * |   8f4fb34 - Rahul Biswas, 61 minutes ago : Merge branch 'main' into feature-middleware
 | | | | | | | | |\ \  
 | | | | | | | |_|/ /  
 | | | | | | |/| | |   
-| | | | | | | | * |   29ee16c - Rahul Biswas, 53 minutes ago : Merge branch 'main' into feature-middleware
+| | | | | | | | * |   29ee16c - Rahul Biswas, 63 minutes ago : Merge branch 'main' into feature-middleware
 | | | | | | | | |\ \  
 | | | | | | |_|_|/ /  
 | | | | | |/| | | |   
-| | | | | | | | * |   8167c15 - Rahul Biswas, 85 minutes ago : Merge branch 'main' into feature-middleware
+| | | | | | | | * |   8167c15 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-middleware
 | | | | | | | | |\ \  
 | | | | | |_|_|_|/ /  
 | | | | |/| | | | |   
-| | | | | | | | * |   a29ce67 - Rahul Biswas, 89 minutes ago : Merge branch 'main' into feature-middleware
+| | | | | | | | * |   a29ce67 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-middleware
 | | | | | | | | |\ \  
 | | | | |_|_|_|_|/ /  
 | | | |/| | | | | |   
-| | | | | | | | * | 3097882 - Rahul Biswas, 89 minutes ago : Remove script from tracking on feature branch
+| | | | | | | | * | 3097882 - Rahul Biswas, 2 hours ago : Remove script from tracking on feature branch
 | | | | | | | | * |   18f3d29 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-middleware
 | | | | | | | | |\ \  
 | | | |_|_|_|_|_|/ /  
@@ -50,26 +58,26 @@
 |/| | | | | | |/ /  
 | | |_|_|_|_|/| |   
 | |/| | | | | | |   
-| | | | | | | | *   113d43c - Rahul Biswas, 32 minutes ago : Merge branch 'main' into feature-logout
+| | | | | | | | *   113d43c - Rahul Biswas, 42 minutes ago : Merge branch 'main' into feature-logout
 | | | | | | | | |\  
 | | | | | | | | |/  
 | | | | | | | |/|   
-| | | | | | | * | ac10834 - Rahul Biswas, 32 minutes ago : Initialize commit log tracker
+| | | | | | | * | ac10834 - Rahul Biswas, 42 minutes ago : Initialize commit log tracker
 | | | | | | |/ /  
-| | | | | | | *   ce642fd - Rahul Biswas, 51 minutes ago : Merge branch 'main' into feature-logout
+| | | | | | | *   ce642fd - Rahul Biswas, 61 minutes ago : Merge branch 'main' into feature-logout
 | | | | | | | |\  
 | | | | | | | |/  
 | | | | | | |/|   
-| | | | | | * | 93fa371 - Rahul Biswas, 52 minutes ago : adding mid a
-| | | | | | * |   6552fde - Rahul Biswas, 53 minutes ago : Merge branch 'main' into feature-auth
+| | | | | | * | 93fa371 - Rahul Biswas, 62 minutes ago : adding mid a
+| | | | | | * |   6552fde - Rahul Biswas, 63 minutes ago : Merge branch 'main' into feature-auth
 | | | | | | |\ \  
 | | | | | | |/ /  
 | | | | | |/| |   
-| | | | | | * |   b3f9b33 - Rahul Biswas, 85 minutes ago : Merge branch 'main' into feature-auth
+| | | | | | * |   b3f9b33 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-auth
 | | | | | | |\ \  
 | | | | | |_|/ /  
 | | | | |/| | |   
-| | | | | | * |   f3a5c81 - Rahul Biswas, 89 minutes ago : Merge branch 'main' into feature-auth
+| | | | | | * |   f3a5c81 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-auth
 | | | | | | |\ \  
 | | | | |_|_|/ /  
 | | | |/| | | |   
@@ -82,20 +90,20 @@
 |/| | | | |/ /  
 | | |_|_|/| |   
 | |/| | | | |   
-| | | | | | *   c3a322e - Rahul Biswas, 53 minutes ago : Merge branch 'main' into feature-logout
+| | | | | | *   c3a322e - Rahul Biswas, 63 minutes ago : Merge branch 'main' into feature-logout
 | | | | | | |\  
 | | | | | | |/  
 | | | | | |/|   
-| | | | | * | a235ed8 - Rahul Biswas, 55 minutes ago : modifying app .js
-| | | | | * | c2dc093 - Rahul Biswas, 75 minutes ago : new git ignore
+| | | | | * | a235ed8 - Rahul Biswas, 65 minutes ago : modifying app .js
+| | | | | * | c2dc093 - Rahul Biswas, 85 minutes ago : new git ignore
 | | | | |/ /  
-| | | | | *   98b5803 - Rahul Biswas, 85 minutes ago : Merge branch 'main' into feature-logout
+| | | | | *   98b5803 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-logout
 | | | | | |\  
 | | | | | |/  
 | | | | |/|   
-| | | | * | 659daa4 - Rahul Biswas, 86 minutes ago : hell
+| | | | * | 659daa4 - Rahul Biswas, 2 hours ago : hell
 | | | |/ /  
-| | | | *   5088a73 - Rahul Biswas, 89 minutes ago : Merge branch 'main' into feature-logout
+| | | | *   5088a73 - Rahul Biswas, 2 hours ago : Merge branch 'main' into feature-logout
 | | | | |\  
 | | | | |/  
 | | | |/|   
@@ -126,5 +134,5 @@
 * | 0b5c248 - Rahul Biswas, 3 hours ago : Adding new auth file
 * | 536d38a - Rahul Biswas, 3 hours ago : k
 |/  
-* 8f92a20 - Rahul Biswas, 3 hours ago : Create initial HTML file
+* 8f92a20 - Rahul Biswas, 4 hours ago : Create initial HTML file
 * 46befa1 - Rahul Biswas, 4 hours ago : feat: add initial app logger
